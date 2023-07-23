@@ -10,8 +10,8 @@ This project can be used to implement the following locomotion styles:
 
 
 
-## Demo Video
+## VRC 8- Walkthrough
 
+Video Link : https://drive.google.com/file/d/1xNSHEwbBW0IChiHI29x_Gvsih-jF8KP_/view?usp=sharing
 
-
-https://drive.google.com/file/d/1xNSHEwbBW0IChiHI29x_Gvsih-jF8KP_/view?usp=sharing
+https://github.com/XR-Access-Initiative/Locomotion-Accessibility-Toolkit/assets/62700240/848e278f-5040-4b49-9022-f4a8f20f13df
